@@ -1,0 +1,108 @@
+/*MAIN-BG.CSS*/
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in this template*/
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* Template Name: ELEGANCE.*/
+/* Author: Designova.*/
+/* Website: http://www.designova.net */
+/* Copyright: (C) 2014 */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------------*/
+/* INTRO / HOME VARIANTS */
+/*--------------------------------------------------------------*/
+.intro-01-carousel-item-01{
+    background-image:url('../images/fullscreen/01.jpg');
+}
+.intro-01-carousel-item-02{
+    background-image:url('../images/fullscreen/02.jpg');
+}
+.intro-01-carousel-item-03{
+    background-image:url('../images/fullscreen/03.jpg');
+}
+.intro-03-carousel-item-01{
+    background-image:url('../images/fullscreen/07.jpg.html');
+}
+.intro-03-carousel-item-02{
+    background-image:url('../images/fullscreen/08.jpg.html');
+}
+.intro-03-carousel-item-03{
+    background-image:url('../images/fullscreen/09.jpg.html');
+}
+.intro-04-hero-bg{
+    background-image:url('images/bg.jpg');
+}
+.intro-05-parallax-01{
+    background-image:url('images/fullscreen/01.jpg');
+}
+
+.intro-05-parallax-02{
+    background-image:url('../images/fullscreen/02.jpg');
+}
+.intro-05-parallax-03{
+    background-image:url('../images/fullscreen/03.jpg');
+}
+.intro-09-carousel-item-01{
+    background-image:url('../images/fullscreen/05.jpg.html');
+}
+.intro-09-carousel-item-02{
+    background-image:url('../images/fullscreen/06.jpg.html');
+}
+.intro-09-carousel-item-03{
+    background-image:url('../images/fullscreen/09.jpg.html');
+}
+.intro10-bg{
+    background-image:url('../images/fullscreen/10.jpg.html');
+}
+
+/*--------------------------------------------------------------*/
+/* PAGES AND SECTIONS */
+/*--------------------------------------------------------------*/
+.about{
+    background-image:url('images/bg/09.jpg.html');
+}
+.contact{
+    background-image:url('images/09.jpg');
+}
+.feature-bg{
+    background-image:url('images/08.jpg');
+}
+.feature-block-01{
+    background-image:url('../images/features/01.jpg.html');
+}
+.feature-block-02{
+    background-image:url('../images/features/02.jpg.html');
+}
+.feature-block-03{
+    background-image:url('../images/features/03.jpg.html');
+}
+.feature-block-04{
+    background-image:url('../images/features/04.jpg.html');
+}
+.feature-block-05{
+    background-image:url('../images/features/05.jpg.html');
+}
+.feature-block-06{
+    background-image:url('../images/features/06.jpg.html');
+}
+.services-bg{
+    background-image:url('images/08.jpg');
+}
+.testimonial-bg{
+    background-image:url('../images/bg/05.jpg.html');
+}
+
+
+/*--------------------------------------------------------------*/
+/* MISC ELEMENTS */
+/*--------------------------------------------------------------*/
+
+.menu-bg{
+    background-image:url('../images/menu-bg.jpg');
+}
+.special-bg{
+    background-image:url('../images/menu-bg.jpg');
+}
+.poster-img{
+    background-image:url('../images/poster.jpg.html') !important;
+}

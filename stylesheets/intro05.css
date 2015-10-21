@@ -1,0 +1,54 @@
+.intro-05 .inner-overlay{
+    background-color: rgba(0,0,0,0.4);
+    opacity: 0;
+    -webkit-transition: all 1s ease-in-out;
+       -moz-transition: all 1s ease-in-out;
+        -ms-transition: all 1s ease-in-out;
+         -o-transition: all 1s ease-in-out;
+            transition: all 1s ease-in-out;
+}
+.intro-05:hover .inner-overlay{
+    opacity: 1;
+    -webkit-transition: all 1s ease-in-out;
+       -moz-transition: all 1s ease-in-out;
+        -ms-transition: all 1s ease-in-out;
+         -o-transition: all 1s ease-in-out;
+            transition: all 1s ease-in-out;
+}
+.crest{
+    padding: 30px;
+    border:solid 6px;
+    width: 320px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.intro-05 h1{
+    font-size: 24px;
+    line-height: 31px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin-bottom: 0;
+}
+.intro-05 h3{
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.intro-05-hero-bg{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.caps-link{
+}
+.intro a.explore{
+    font-size: 24px;
+    line-height: 31px;
+    font-style: italic;
+    cursor: pointer;
+}
+.intro-05-parallax{
+}
