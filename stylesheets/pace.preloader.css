@@ -23,7 +23,7 @@
 .pace .pace-activity:before {
   content: '';
   background-color: #fff;
-  background-image: url('../images/loader.gif.html');
+  background-image: url('../images/loader.gif');
   background-repeat: no-repeat;
   background-position: center center;
   display: block;

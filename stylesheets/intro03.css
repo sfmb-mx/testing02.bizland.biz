@@ -1,0 +1,88 @@
+.intro-03-carousel-item{
+    height: 100%;
+}
+.intro-03 .inner-overlay{
+    background-color: rgba(255,255,255,0.1);
+}
+.intro-03-carousel-item .inner-overlay .valign{
+    display: none;
+}
+.intro-03-carousel-item:first-child .inner-overlay .valign{
+    display: block;
+}
+.intro-caption{
+    padding: 60px;
+}
+
+.intro h5 > span{
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-right: 60px;
+    padding: 4px;
+    padding-left: 6px;
+}
+.intro h1{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-right: 60px;
+}
+.intro h1{
+    font-size: 48px;
+    line-height: 55px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+}
+.caps-link{
+    margin-right: 60px;
+}
+.caps-link > span{
+    border-top: solid 1px #fff;
+    padding-top: 10px;
+
+}
+.intro a.explore{
+    font-size: 20px;
+    line-height: 27px;
+    font-style: italic;
+    cursor: pointer;
+}
+.caps-count{
+    position: absolute;
+    bottom: 90px;
+   right: 60px;
+}
+.caps-count > p{
+    font-size: 24px;
+    line-height: 31px;
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+}
+.caps-count > p > span{
+    font-size: 24px;
+    line-height: 31px;
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+}
+
+.intro-03-carousel-item{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.owl-theme .owl-controls{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    right: 60px;
+    top: 60px;
+}
+.owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span{
+    background-color: #fff !important;
+}

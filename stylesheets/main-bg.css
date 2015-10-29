@@ -21,21 +21,20 @@
     background-image:url('../images/fullscreen/03.jpg');
 }
 .intro-03-carousel-item-01{
-    background-image:url('../images/fullscreen/07.jpg.html');
+    background-image:url('../images/fullscreen/07.jpg');
 }
 .intro-03-carousel-item-02{
-    background-image:url('../images/fullscreen/08.jpg.html');
+    background-image:url('../images/fullscreen/08.jpg');
 }
 .intro-03-carousel-item-03{
-    background-image:url('../images/fullscreen/09.jpg.html');
+    background-image:url('../images/fullscreen/09.jpg');
 }
 .intro-04-hero-bg{
-    background-image:url('images/bg.jpg');
+    background-image:url('../images/fullscreen/06.jpg');
 }
 .intro-05-parallax-01{
-    background-image:url('images/fullscreen/01.jpg');
+    background-image:url('../images/fullscreen/01.jpg');
 }
-
 .intro-05-parallax-02{
     background-image:url('../images/fullscreen/02.jpg');
 }
@@ -43,53 +42,53 @@
     background-image:url('../images/fullscreen/03.jpg');
 }
 .intro-09-carousel-item-01{
-    background-image:url('../images/fullscreen/05.jpg.html');
+    background-image:url('../images/fullscreen/05.jpg');
 }
 .intro-09-carousel-item-02{
-    background-image:url('../images/fullscreen/06.jpg.html');
+    background-image:url('../images/fullscreen/06.jpg');
 }
 .intro-09-carousel-item-03{
-    background-image:url('../images/fullscreen/09.jpg.html');
+    background-image:url('../images/fullscreen/09.jpg');
 }
 .intro10-bg{
-    background-image:url('../images/fullscreen/10.jpg.html');
+    background-image:url('../images/fullscreen/10.jpg');
 }
 
 /*--------------------------------------------------------------*/
 /* PAGES AND SECTIONS */
 /*--------------------------------------------------------------*/
 .about{
-    background-image:url('images/bg/09.jpg.html');
+    background-image:url('../images/bg/09.jpg');
 }
 .contact{
-    background-image:url('images/09.jpg');
+    background-image:url('../images/bg/09.jpg');
 }
 .feature-bg{
-    background-image:url('images/08.jpg');
+    background-image:url('../images/bg/08.jpg');
 }
 .feature-block-01{
-    background-image:url('../images/features/01.jpg.html');
+    background-image:url('../images/features/01.jpg');
 }
 .feature-block-02{
-    background-image:url('../images/features/02.jpg.html');
+    background-image:url('../images/features/02.jpg');
 }
 .feature-block-03{
-    background-image:url('../images/features/03.jpg.html');
+    background-image:url('../images/features/03.jpg');
 }
 .feature-block-04{
-    background-image:url('../images/features/04.jpg.html');
+    background-image:url('../images/features/04.jpg');
 }
 .feature-block-05{
-    background-image:url('../images/features/05.jpg.html');
+    background-image:url('../images/features/05.jpg');
 }
 .feature-block-06{
-    background-image:url('../images/features/06.jpg.html');
+    background-image:url('../images/features/06.jpg');
 }
 .services-bg{
-    background-image:url('images/08.jpg');
+    background-image:url('../images/bg/08.jpg');
 }
 .testimonial-bg{
-    background-image:url('../images/bg/05.jpg.html');
+    background-image:url('../images/bg/05.jpg');
 }
 
 
@@ -104,5 +103,5 @@
     background-image:url('../images/menu-bg.jpg');
 }
 .poster-img{
-    background-image:url('../images/poster.jpg.html') !important;
+    background-image:url('../images/poster.jpg') !important;
 }

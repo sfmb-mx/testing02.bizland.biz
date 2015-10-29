@@ -672,7 +672,7 @@ a.explore{
                     transition: all .4s ease-in-out;
         }
         .info a:hover{
-            cursor: url("../images/plus.png.html") 40 40, crosshair;
+            cursor: url("../images/plus.png") 40 40, crosshair;
             -webkit-transition: all .4s ease-in-out;
                -moz-transition: all .4s ease-in-out;
                 -ms-transition: all .4s ease-in-out;
@@ -680,7 +680,7 @@ a.explore{
                     transition: all .4s ease-in-out;
         }
         .zoom a:hover{
-            cursor: url("../images/zoom.png.html") 40 40, crosshair;
+            cursor: url("../images/zoom.png") 40 40, crosshair;
             -webkit-transition: all .4s ease-in-out;
                -moz-transition: all .4s ease-in-out;
                 -ms-transition: all .4s ease-in-out;
@@ -743,7 +743,7 @@ a.explore{
                     transition: all .4s ease-in-out;
         }
         .single-project-block a:hover{
-            cursor: url("../images/zoom.png.html") 40 40, crosshair;
+            cursor: url("../images/zoom.png") 40 40, crosshair;
             -webkit-transition: all .4s ease-in-out;
                -moz-transition: all .4s ease-in-out;
                 -ms-transition: all .4s ease-in-out;
@@ -764,7 +764,7 @@ a.explore{
 .news-listing-item{
 	padding: 40px;
 	border-top: solid 5px;
-    background-image:url('../images/arrow.png.html') !important;
+    background-image:url('../images/arrow.png') !important;
     background-position: top center !important;
     background-repeat: no-repeat !important;
 }
