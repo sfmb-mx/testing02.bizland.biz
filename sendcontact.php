@@ -1,9 +1,9 @@
 <?php
 
 // Define some constants
-define( "RECIPIENT_NAME", "BizLand Hello" ); //UPDATE THIS TO YOUR NAME
-define( "RECIPIENT_EMAIL", "hello@bizland.biz" ); //UPDATE THIS TO YOUR EMAIL ID
-define( "EMAIL_SUBJECT", "Website Visitor Message" ); //UPDATE THIS TO YOUR SUBJECT
+define( "RECIPIENT_NAME", "Hello Emelly Velasco" ); //UPDATE THIS TO YOUR NAME
+define( "RECIPIENT_EMAIL", "hello@emellyvelasco.xyz" ); //UPDATE THIS TO YOUR EMAIL ID
+define( "EMAIL_SUBJECT", "Mensaje de contacto de tu website" ); //UPDATE THIS TO YOUR SUBJECT
 
 // Read the form values
 $success = false;

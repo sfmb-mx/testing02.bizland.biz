@@ -5,8 +5,8 @@
 // Template Name: ELEGANCE.
 // Author: Designova.
 // Version 1.0 - Initial Release
-// Website: http://www.designova.net 
-// Copyright: (C) 2014 
+// Website: http://www.designova.net
+// Copyright: (C) 2014
 // -------------------------------------------------------------------------------------------------------------------------------
 
 /*global $:false */
@@ -19,7 +19,7 @@
 $(function ($) {
 
 
-     
+
     //Detecting viewpot dimension
      var vH = $(window).height();
 
@@ -27,8 +27,8 @@ $(function ($) {
      $('.fullheight').css('height',vH);
      $('.halfheight').css('height',vH/2);
      $('.fullheightmin').css('min-height',vH);
-  
-   
+
+
 
     //Mobile Menu (multi level)
     $('ul.slimmenu').slimmenu({
@@ -49,7 +49,7 @@ $(function ($) {
     });
 
 
-     
+
     //TWITTER INIT (Updated with compatibility on Twitter's new API):
     //PLEASE READ DOCUMENTATION FOR INFO ABOUT SETTING UP YOUR OWN TWITTER CREDENTIALS:
     $(function ($) {
@@ -57,10 +57,10 @@ $(function ($) {
                   modpath: './twitter/',
                   count: 1,
                   loading_text: 'loading twitter update...',
-                  username:'designovastudio'
+                  username:'Cursos_EV'
                   /* etc... */
               });
-    }); 
+    });
 
 
 
@@ -70,12 +70,3 @@ $(function ($) {
 
 })();
 //  JSHint wrapper $(function ($)  : ends
-
-
-
-
-
-
-
-  
-
