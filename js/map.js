@@ -1,10 +1,9 @@
-
 function initialize() {
 
     //Map parametrs
     var mapOptions = {
-        zoom: 14,
-        center: new google.maps.LatLng(41.143, -73.341),
+        zoom: 6,
+        center: new google.maps.LatLng(-23.442404, -56.280028),
         mapTypeId: google.maps.MapTypeId.ROADMAP,
 
         mapTypeControl: false,
@@ -38,7 +37,16 @@ function initialize() {
     var cook = 'img/icon/01.png';
 
     //positions
-    var point1 = new google.maps.LatLng(41.154, -73.328);
+    var point1 = new google.maps.LatLng(-20.14653, -51.26318);
+    var point2 = new google.maps.LatLng(-20.547, -41.16025);
+    var point3 = new google.maps.LatLng(-21.14556, -47.99636);
+    var point4 = new google.maps.LatLng(-22.2375, -48.69906);
+    var point5 = new google.maps.LatLng(-23.36671, -54.12838);
+    var point6 = new google.maps.LatLng(-23.50614, -52.83126);
+    var point7 = new google.maps.LatLng(-23.4535, -52.01105);
+    var point8 = new google.maps.LatLng(-24.04872, -52.4076);
+    var point9 = new google.maps.LatLng(-27.00421, -52.04272);
+    var point10 = new google.maps.LatLng(-28.06892, -52.00035);
 
     //markers
     var marker1 = new google.maps.Marker({
@@ -46,9 +54,80 @@ function initialize() {
         map: map,
         category: cook,
         icon: cook,
-        title: "point1"
+        title: "SIF 3772"
     });
-  
+
+    var marker2 = new google.maps.Marker({
+        position: point2,
+        map: map,
+        category: cook,
+        icon: cook,
+        title: "SIF 957"
+    });
+
+    var marker3 = new google.maps.Marker({
+        position: point3,
+        map: map,
+        category: cook,
+        icon: cook,
+        title: "SIF 1301"
+    });
+
+    var marker4 = new google.maps.Marker({
+        position: point4,
+        map: map,
+        category: cook,
+        icon: cook,
+        title: "SIF 3201"
+    });
+
+    var marker5 = new google.maps.Marker({
+        position: point5,
+        map: map,
+        category: cook,
+        icon: cook,
+        title: "SIF 3409"
+    });
+
+    var marker6 = new google.maps.Marker({
+        position: point6,
+        map: map,
+        category: cook,
+        icon: cook,
+        title: "SIF 3925"
+    });
+
+    var marker7 = new google.maps.Marker({
+        position: point7,
+        map: map,
+        category: cook,
+        icon: cook,
+        title: "SIF 2010"
+    });
+
+    var marker8 = new google.maps.Marker({
+        position: point8,
+        map: map,
+        category: cook,
+        icon: cook,
+        title: "SIF 2212"
+    });
+
+    var marker9 = new google.maps.Marker({
+        position: point9,
+        map: map,
+        category: cook,
+        icon: cook,
+        title: "SIF 3849"
+    });
+
+    var marker10 = new google.maps.Marker({
+        position: point10,
+        map: map,
+        category: cook,
+        icon: cook,
+        title: "SIF 1850"
+    });
 
     //information for
     function goToLink() {
@@ -56,12 +135,7 @@ function initialize() {
     }
     google.maps.event.addListener(marker1, 'click', goToLink);
 
-    
 
-
-
-
-    
     //Map parametrs
     var mapOptions2 = {
         zoom: 14,
