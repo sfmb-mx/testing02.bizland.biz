@@ -19,3 +19,4 @@ function URLParser() {
 }
 
 // http://testing02.bizland.biz/cform.html?cur=
+// http://testing02.bizland.biz/cform.html?cur=http%3A%2F%2Fwww.amazon.com%2FSeagate-Expansion-Desktop-External-STEB5000100%2Fdp%2FB00TKFEEBW%2Fref%3Dsr_1_3%3Fs%3Dpc%26ie%3DUTF8%26qid%3D1453912039%26sr%3D1-3%26keywords%3Dhard%2Bdrive
